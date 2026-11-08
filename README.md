@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Avalonia Zafiro Development** when handlin
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added five development references: `core-technical-skills.md`, `naming-standards.md`, `avalonia-reactive-rules.md`, `zafiro-shortcuts.md`, and `patterns.md`.
